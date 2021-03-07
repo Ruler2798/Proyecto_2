@@ -1,0 +1,82 @@
+--------------------------------------------
+ASIGNACION DE POKEMON A UNA POKEBOLA
+--------------------------------------------
+Linea 1:
+Pokebola con id 1 = Pokebola
+Pokemon con id 1 = Bulbasaur
+
+Linea 2:
+Pokebola con id 2 = Poke ball
+Pokemon con id 15 = Beedrill
+
+Linea 3:
+Pokebola con id 3 = Poke ball
+Pokemon con id 3 = Venusaur
+
+Linea 4:
+Pokebola con id 4 = Poke ball
+Pokemon con id 12 = Butterfree
+
+Linea 5:
+Pokebola con id 5 = Ultra Ball
+Pokemon con id 10 = Caterpie
+
+Linea 6:
+Pokebola con id 6 = Super Ball
+Pokemon con id 13 = Weedle
+
+Linea 7:
+Pokebola con id 7 = Super Ball
+Pokemon con id 7 = Squirtle
+
+Linea 8:
+Pokebola con id 8 = Super Ball
+Pokemon con id 9 = Blastoise
+
+Linea 9:
+Pokebola con id 9 = Ultra Ball
+Pokemon con id 4 = Charmander
+
+Linea 10:
+Pokebola con id 10 = Master Ball
+Pokemon con id 11 = Metapod
+
+
+--------------------------------------------
+ASIGNACION DE UNA POKEBOLA A UN ENTRENADOR
+--------------------------------------------
+Linea 1:
+Entrenador 1: Buffy
+Pokebola 1: Una Poke Ball con Bulbasuar
+
+Linea 2:
+Entrenador 1: Buffy
+Pokebola 10: Una Master Ball con Metapod
+
+Linea 3:
+Entrenador 1: Buffy
+Pokebola 7: Una Super Ball con Squirtle
+
+Linea 4:
+Entrenador 2: Jackqueline
+Pokebola 3: Una Poke Ball con Venasuar
+
+Linea 5:
+Entrenador 2: Jackqueline
+Pokebola 2: Una Poke Ball con Beedrill
+
+Linea 6:
+Entrenador 3: Ezra
+Pokebola 9: Una Ultra Ball con Blastoise
+
+Linea 7:
+Entrenador 4: Gael
+Pokebola 6: Una Super Ball con Weedle
+
+Linea 8:
+Entrenador 4: Gael
+Pokebola 5: Una Ultra Ball con Caterpie
+
+Linea 9:
+Entrenador 5: Eric
+Pokebola 4: Una Poke Ball con Buterfree
